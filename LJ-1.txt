@@ -1,2 +1,2 @@
-
-vless://96f7ab31-6b04-461a-9800-8435b1ad5f38@glrqyvsnzyjiaead.pages.dev:443?flow=&encryption=none&security=tls&sni=&type=ws&host=glrqyvsnzyjiaead.pages.dev&path=/zqlhmzws&headerType=none&alpn=&fp=&pbk=&sid=&spx=# 
+vless://a409f727-5596-4707-bbac-b4664056e2a2@ithinko.eu.org:443?flow=&encryption=none&security=tls&sni=&type=ws&host=ithinko.eu.org&path=/a409f727-5596-4707-bbac-b4664056e2a2&headerType=none&alpn=&fp=&pbk=&sid=&spx=# 
+vless://a409f727-5596-4707-bbac-b4664056e2a2@ithinko.eu.org:443?flow=&encryption=none&security=tls&sni=&type=ws&host=ithinko.eu.org&path=/a409f727-5596-4707-bbac-b4664056e2a2&headerType=none&alpn=&fp=chrome#&pbk=&sid=&spx=#xui-96 
